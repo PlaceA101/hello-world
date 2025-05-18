@@ -5,9 +5,9 @@ Checklist
 
 Make sure you completed the following items before you submit the assignment on Canvas:
 
- Create a repository on GitHub
- Create a branch on GitHub
- Make changes to the branch
- Open a pull request on GitHub
- Merge your pull request
- Filled out the feedback form (optional)
+ Create a repository on GitHub [x]
+ Create a branch on GitHub [x]
+ Make changes to the branch [x]
+ Open a pull request on GitHub [x]
+ Merge your pull request [x]
+ Filled out the feedback form (optional) []
